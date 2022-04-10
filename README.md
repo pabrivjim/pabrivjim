@@ -1,11 +1,12 @@
-### Hi there, I'm Pablo 👀 
+### Hi there, I'm Pablo - aka pabrivjim 👋
 
 ## I'm a Software Engineer Student in Seville, Spain
-
+<img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp">
 - 📚 I’m currently studying my 3rd year in University Of Seville
 - 💖 I’m in love with coding
 - ⚡ Fun fact: I really like to watch anime and read manga
 - 🌱 I’m currently learning PyQt
+- 📫 How to reach me **parijimenez@gmail.com**
 ### You can find me in:
 
 [<img align="left" alt="pabrivjim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -32,6 +33,8 @@
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
     </td>
   </tr>
 
@@ -41,6 +44,8 @@
     </td>
     <td>HTML 5</td>
     <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
@@ -55,6 +60,8 @@
     <td>
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
     </td>
   </tr>
@@ -68,18 +75,23 @@
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
     </td>
   </tr>
 
   <tr>
     <td>
-      <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+      <img alt="PyQt" width="26px" src="https://es.wikipedia.org/wiki/PyQt#/media/Archivo:Python_and_Qt.svg" />
     </td>
-    <td>Node.js</td>
+    <td>PyQt</td>
     <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
+      
     </td>
   </tr>
 
@@ -92,6 +104,8 @@
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
     </td>
   </tr>
 
@@ -104,6 +118,8 @@
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
     </td>
   </tr>
 </table>
@@ -120,6 +136,8 @@
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
     </td>
   </tr>
 
@@ -132,6 +150,8 @@
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
     </td>
   </tr>
 
@@ -142,6 +162,8 @@
     <td>C</td>
     <td>
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
     </td>
@@ -156,6 +178,8 @@
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
     </td>
   </tr>
 
@@ -168,6 +192,8 @@
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
     </td>
   </tr>
 
@@ -180,6 +206,8 @@
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
     </td>
   </tr>
 
@@ -192,6 +220,8 @@
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
     </td>
   </tr>
 </table>
@@ -214,4 +244,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabrivjim&layout=compact&bg_color=0d1117&text_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/pablo-rivera-jim%C3%A9nez-31a166217/
-[gmail]: pabrivjim@gmail.com
+[gmail]: parijimenez@gmail.com
