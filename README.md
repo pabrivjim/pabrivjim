@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer Student in Seville, Spain
 
-<img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp">
+<img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp">
 
 - 📚 I’m currently studying my 3rd year in University Of Seville
 - 💖 I’m in love with coding
