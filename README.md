@@ -94,8 +94,6 @@
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
     </td>
   </tr>
-</table>
-</td>
 
   <tr>
     <td>
@@ -108,6 +106,8 @@
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
     </td>
   </tr>
+</table>
+</td>
 
 <td>
 <table>
