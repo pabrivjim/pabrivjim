@@ -55,6 +55,7 @@
     <td>
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
     </td>
   </tr>
 
@@ -96,6 +97,18 @@
 </table>
 </td>
 
+  <tr>
+    <td>
+      <img alt="Spring" width="26px" src="https://symbols.getvecta.com/stencil_96/69_spring-framework-icon.d563816ce9.png" />
+    </td>
+    <td>Spring</td>
+    <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+    </td>
+  </tr>
+
 <td>
 <table>
   <tr>
@@ -115,18 +128,6 @@
       <img alt="Java" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
     </td>
     <td>Java</td>
-    <td>
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <img alt="Spring" width="26px" src="https://symbols.getvecta.com/stencil_96/69_spring-framework-icon.d563816ce9.png" />
-    </td>
-    <td>Spring</td>
     <td>
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
