@@ -85,7 +85,7 @@
 
   <tr>
     <td>
-      <img alt="PyQt" width="26px" src="https://es.wikipedia.org/wiki/PyQt#/media/Archivo:Python_and_Qt.svg" />
+      <img alt="PyQt" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Python_and_Qt.svg/1200px-Python_and_Qt.svg.png" />
     </td>
     <td>PyQt</td>
     <td>
