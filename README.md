@@ -1,12 +1,15 @@
 ### Hi there, I'm Pablo - aka pabrivjim 👋
 
 ## I'm a Software Engineer Student in Seville, Spain
+
 <img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp">
+
 - 📚 I’m currently studying my 3rd year in University Of Seville
 - 💖 I’m in love with coding
 - ⚡ Fun fact: I really like to watch anime and read manga
 - 🌱 I’m currently learning PyQt
 - 📫 How to reach me **parijimenez@gmail.com**
+
 ### You can find me in:
 
 [<img align="left" alt="pabrivjim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -91,7 +94,6 @@
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
-      
     </td>
   </tr>
 
