@@ -9,6 +9,7 @@
 - ⚡ Fun fact: I really like to watch anime and read manga
 - 🌱 I’m currently learning PyQt
 - 📫 How to reach me **parijimenez@gmail.com**
+- 🤝  I'm open to collaborating on interesting projects
 
 ### You can find me in:
 
