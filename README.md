@@ -14,6 +14,7 @@
 ### You can find me in:
 
 [<img align="left" alt="pabrivjim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="pabrivjim | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />][StackOverflow]
 
 <br />
 
@@ -247,4 +248,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabrivjim&layout=compact&bg_color=0d1117&text_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/pablo-rivera-jim%C3%A9nez-31a166217/
+[StackOverflow]: https://stackoverflow.com/users/19392194/whoknowsme
 [gmail]: parijimenez@gmail.com
