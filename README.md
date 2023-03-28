@@ -4,12 +4,12 @@
 
 <img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp">
 
-- 📚 I’m currently studying my 3rd year in University Of Seville
-- 💖 I’m in love with coding
-- ⚡ Fun fact: I really like to watch anime and read manga
-- 🌱 I’m currently learning PyQt
-- 📫 How to reach me **parijimenez@gmail.com**
-- 🤝  I'm open to collaborating on interesting projects
+- 📚 I am currently in my final year at the University of Seville.
+- 💖 I’m in love with coding.
+- ⚡ Fun fact: I really like to watch anime and read manga.
+- 🌱 I’m currently learning PyQt.
+- 📫 How to reach me **parijimenez@gmail.com**.
+- 🤝  I'm open to collaborating on interesting projects.
 
 ### You can find me in:
 
@@ -115,9 +115,9 @@
 
   <tr>
     <td>
-      <img alt="Spring" width="26px" src="https://symbols.getvecta.com/stencil_96/69_spring-framework-icon.d563816ce9.png" />
+      <img alt="Spring" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEPauBbMwDF0tjG2W6cgwsFfpBDygQixtiubKoyzc&s" />
     </td>
-    <td>Spring</td>
+    <td>SpringBoot</td>
     <td>
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
