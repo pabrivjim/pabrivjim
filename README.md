@@ -4,7 +4,9 @@
 
 <img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp">
 
-- 📚 I am currently in my final year at the University of Seville.
+- 📚 I'm in my final year of the Bachelor's degree at the University of Seville.
+- 🧳 I'm an Erasmus+ student studying Bachelor's and Master's in Computer Science.
+- ✈️ I love traveling! Exploring new places and cultures is one of my passions.
 - 💖 I’m in love with coding.
 - ⚡ Fun fact: I really like to watch anime and read manga.
 - 🌱 I’m currently learning PyQt.
